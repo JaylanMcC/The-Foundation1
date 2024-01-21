@@ -1,1 +1,47 @@
+<!DOCTYPE html>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAT Jaylan</title>
+</head>
+<body>
+    <header>
+        <h1>Page Title</h1>
+    </header>
+    <p>
+        <!-- Insert the file name and extension of your meme image -->
+        <img id="memeImage" src=" https://images.app.goo.gl/XFEDEHXw3MhddwXG6 " alt="Fun Meme">
+    </p>
+</body>
+</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+</head>
+<body>
+
+    <header>
+        <h1>Jaylan McCoy Intro to Programming</h1>
+    </header>
+
+    <nav>
+        <h2>Navigation</h2>
+        <a href="./index.html">Home</a><br>
+        <a href="./boards.html">Boards</a><br>
+    </nav>
+    
+    <footer>
+        Jaylan McCoy<br>
+        University of Advancing Technology<br>
+        2627 West Baseline<br>
+       Tempe, 85283<br>
+  
+    </footer>
+
+</body>
+</html>
